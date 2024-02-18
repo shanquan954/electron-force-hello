@@ -31,7 +31,7 @@ module.exports = {
     {
       name: '@electron-forge/publisher-github',
       config: {
-        authToken: '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',
+        authToken: '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',
         repository: {
           owner: 'shanquan954',
           name: 'electron-force-hello'
